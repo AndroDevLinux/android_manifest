@@ -11,6 +11,12 @@
 
   <remote  name="blobs"
            fetch="https://github.com/ThankYouMario" />
+           
+  <remote name="kernel"
+          fetch="git://git.kernel.org/pub/scm/" />
+
+  <remote name="googlecode"
+          fetch="https://code.google.com/p/" />
 
   <remote  name="paranoid"
            fetch="ssh://git@bitbucket.org/paranoidandroid/" />
