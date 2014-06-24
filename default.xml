@@ -76,7 +76,7 @@
   <project path="external/bash"  name="CyanogenMod/android_external_bash"  remote="github"  revision="cm-11.0" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluez"      name="AndroidOpenSourceXperia/android_external_bluetooth_bluez"     remote="github"     revision="5.19" />
+  <project path="external/bluetooth/bluez"      name="XperiaSTE/android_external_bluetooth_bluez"     remote="github"     revision="cm-11.0" />
   <project path="external/bluetooth/sbc"        name="bluetooth/sbc"                                                remote="kernel"     revision="master"         groups="pdk" />
   <project path="external/bluetooth/glib"       name="aosp-bluez.glib"                                              remote="googlecode" revision="master"         groups="pdk" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
