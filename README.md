@@ -1,7 +1,7 @@
 android_manifest
 ================
 
-Buidling instructions for Nypon [Sony Xperia P]
+Buidling instructions for Sony Xperia P/U/Sola/Go(nypon/kumquat/pepper/lotus)
 
 mkdir pa;
 
@@ -19,4 +19,7 @@ curl https://raw.githubusercontent.com/CyanogenMod/android_system_netd/cm-11.0/S
 # APNs list
 curl https://raw.githubusercontent.com/CyanogenMod/android_vendor_cm/cm-11.0/prebuilt/common/etc/apns-conf.xml > device/generic/goldfish/data/etc/apns-conf.xml
 
-./rom-build.sh nypon;
+For Xperia P- ./rom-build.sh nypon;
+For Xperia U- ./rom-build.sh kumquat;
+For Xperia Sola- ./rom-build.sh pepper;
+For Xperia Go- ./rom-build.sh lotus;
