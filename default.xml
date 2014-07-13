@@ -342,4 +342,6 @@
   <project path="kernel/sony/u8500"             name="percy-g2/android_kernel_sony_u8500"            remote="github"     revision="cm-10" />
   <project path="vendor/sony"                   name="percy-g2/proprietary_vendor_sony"              remote="github"     revision="jellybean" />
   <project path="hardware/semc/DASH"            name="CyanogenMod/android_hardware_sony_DASH"        remote="github"     revision="jellybean" />
+  <project path="vendor/st-ericsson"            name="percy-g2/android_vendor_st-ericsson"           remote="github"     revision="master" />
+  
 </manifest>
