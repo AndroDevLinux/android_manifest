@@ -340,6 +340,7 @@
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
+  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github" revision="cm-11.0" />
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" remote="github" revision="cm-11.0"/>
   <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" remote="github" revision="cm-11.0"/>
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
