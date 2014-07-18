@@ -494,4 +494,8 @@
   <project path="kernel/sony/msm8x27" name="AndroDevLinux/android_Kernel_sony_msm8x27" remote="github" revision="cm-11.0" />
   <project path="device/sony/nicki" name="AndroDevLinux/android_device_sony_nicki" remote="github" revision="cm-11.0" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-11.0" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
+  <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" />
+  <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" />
+  <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" />
 </manifest>
