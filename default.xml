@@ -450,6 +450,4 @@
   <project path="kernel/sony/u8500"             name="percy-g2/android_kernel_sony_u8500"            remote="github"     revision="kitkat-dev" />
   <project path="vendor/sony"                   name="XperiaSTE/android_vendor_sony"                  remote="github"     revision="cm-11.0" />
   <project path="hardware/ste-sony"             name="XperiaSTE/android_hardware_ste-sony"            remote="github"     revision="cm-11.0" />
-  <project path="vendor/google"                 name="AndroidOpenSourceXperia/android_vendor_google"                remote="github"     revision="master" />
-
 </manifest>
