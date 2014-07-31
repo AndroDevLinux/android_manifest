@@ -447,7 +447,7 @@
   <project path="device/sony/lotus"             name="AndroDevLinux/android_device_sony_lotus"            remote="github"     revision="master" />
   <project path="device/sony/nypon"             name="AndroDevLinux/android_device_sony_nypon"            remote="github"     revision="master" />
 
-  <project path="kernel/sony/u8500"             name="percy-g2/android_kernel_sony_u8500"            remote="github"     revision="kitkat-dev" />
+  <project path="kernel/sony/u8500"             name="AndroidOpenSourceXperia/android_kernel_sony_u8500"            remote="github"     revision="master" />
   <project path="vendor/sony"                   name="XperiaSTE/android_vendor_sony"                  remote="github"     revision="cm-11.0" />
   <project path="hardware/ste-sony"             name="XperiaSTE/android_hardware_ste-sony"            remote="github"     revision="cm-11.0" />
 </manifest>
