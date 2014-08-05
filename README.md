@@ -7,7 +7,7 @@ mkdir cm-11.0
 
 cd cm-11.0
 
-repo init -u git://github.com/AndroDevLinux/android_manifest.git -b cm-11.0-falcon;
+repo init -u git://github.com/AndroDevLinux/android_manifest.git -b stable/cm-11.0-falcon;
 
 repo sync;
 
