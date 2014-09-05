@@ -301,6 +301,7 @@
   <project path="hardware/libhardware" name="AndroDevLinux/android_hardware_libhardware" remote="github" revision="kitkat" />
   <project path="hardware/libhardware_legacy" name="percy-g2/android_hardware_libhardware_legacy-1" remote="github" revision="4.4.3_r1.1" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
+  <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="github" revision="cm-11.0" />
   <project path="external/koush/Superuser" name="Cyanogenmod/Superuser" remote="github" revision="cm-11.0" />
   <project path="external/koush/Widgets" name="Cyanogenmod/Widgets" remote="github" revision="cm-11.0" />
   <project path="libcore" name="AOSPA/android_libcore" remote="github" revision="kitkat" />
