@@ -42,7 +42,7 @@
   <project path="bionic" name="AndroidOpenSourceXperia/android_bionic"  remote="github"  revision="kitkat" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="percy-g2/android_bootable_recovery" remote="github" revision="android-4.4" />
+  <project path="bootable/recovery" name="XperiaSTE/android_bootable_recovery" remote="github" revision="cm-11.0" />
   <project path="cts" name="platform/cts" groups="cts" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="developers/build" name="platform/developers/build" />
