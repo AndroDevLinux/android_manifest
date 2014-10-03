@@ -265,7 +265,7 @@
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" />
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av"  name="percy-g2/android_frameworks_av-1"  remote="github" revision="4.4.3_r1.1" />
+  <project path="frameworks/av"  name="AndroidOpenSourceXperia/android_frameworks_av"  remote="github" revision="kitkat" />
   <project path="frameworks/base" name="AndroDevLinux/android_frameworks_base" remote="github" revision="kitkat" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
