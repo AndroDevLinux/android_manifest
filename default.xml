@@ -39,7 +39,7 @@
 
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="AOSPA/android_art" remote="github" revision="kitkat" />
-  <project path="bionic" name="AndroidOpenSourceXperia/android_bionic"  remote="github"  revision="kitkat" />
+  <project path="bionic" name="AndroDevLinux/android_bionic"  remote="github"  revision="kitkat" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="XperiaSTE/android_bootable_recovery" remote="github" revision="cm-11.0" />
