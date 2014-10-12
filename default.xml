@@ -492,12 +492,12 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
 
-  <project path="vendor/motorola" name="TEAM-Gummy/proprietary_vendor_motorola" revision="kk4.4" />
-  <project path="kernel/motorola/msm8226" name="TEAM-Gummy/android_kernel_motorola_msm8226" revision="kk4.4" />
-  <project path="device/motorola/falcon" name="AndroDevLinux/android_device_motorola_falcon" revision="kk4.4" />
-  <project path="device/motorola/qcom-common" name="CyanogenMod/android_device_motorola_qcom-common" />
-  <project path="device/motorola/msm8226-common" name="CyanogenMod/android_device_motorola_msm8226-common" />
-  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
+  <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" revision="cm-11.0" />
+  <project path="kernel/motorola/msm8226" name="CyanogenMod/android_kernel_motorola_msm8226" revision="cm-11.0" />
+  <project path="device/motorola/falcon" name="CyanogenMod/android_device_motorola_falcon" revision="cm-11.0" />
+  <project path="device/motorola/qcom-common" name="CyanogenMod/android_device_motorola_qcom-common" revision="cm-11.0" />
+  <project path="device/motorola/msm8226-common" name="CyanogenMod/android_device_motorola_msm8226-common" revision="cm-11.0" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-11.0" />
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" />
   <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" />
   <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" />
